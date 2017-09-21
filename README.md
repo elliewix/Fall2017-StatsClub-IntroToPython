@@ -17,4 +17,4 @@ This will be more of a tour of python and going through an example program.
 2. The python ecosystem and how to install things
 3. Stepping through a data processing task
 
-This is not meant to be the only python expoluse that you need to get started, but instead to be the 
+This is not meant to be the only python expoluse that you need to get started, but instead to be a jumping off point to help you get started or be more comfortable if you are put into a sudden position of using python.
