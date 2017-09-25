@@ -5,7 +5,7 @@
 
 ## Premis
 
-R is a powerful tool for statistics, data anasysis, and data visualization, and can be used for a wide variety of data processing tasks.  Unfortunately, you may end up working on a team that only uses Python, need to use a tool that is only in Python, or just have a task too unwieldy for you to accomplish in R.
+R is a powerful tool for statistics, data analysis, and data visualization, and can be used for a wide variety of data processing tasks.  Unfortunately, you may end up working on a team that only uses Python, need to use a tool that is only in Python, or just have a task too unwieldy for you to accomplish in R.
 
 No matter the reason, the current state of data science requires that we can be functional in both R and Python.  Many blog posts out there work hard to try and compare the two, and attempt to pick a winner.  Analysis of tools like StackOverflow and GitHub are trying to measure the growth of each over time, but no matter who might be the winner of the day you'll need to know both to some level.
 
